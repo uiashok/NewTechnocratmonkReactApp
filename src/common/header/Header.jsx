@@ -26,8 +26,7 @@ class Header extends Component {
           </div>
           <div className="openSideM">
   <input type="checkbox" class="openSideMenu" id="openSideMenu"/>
-
-  <label for="openSideMenu" class="sideIconToggle">
+<label for="openSideMenu" class="sideIconToggle">
     <div class="spinner diagonal part-1"></div>
     <div class="spinner horizontal"></div>
     <div class="spinner diagonal part-2"></div>
